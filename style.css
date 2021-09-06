@@ -1,0 +1,21 @@
+body {
+background-color:black;
+color: white;
+}
+h1{color:grey;
+text-align: center;}
+
+.maindiv{
+background-color: white;
+color:black;
+width: 500px;
+padding: 20px;
+border-radius: 25px;
+margin: 0 auto;
+
+}
+
+.formDiv{
+    padding-left: 100px;
+    
+    }
